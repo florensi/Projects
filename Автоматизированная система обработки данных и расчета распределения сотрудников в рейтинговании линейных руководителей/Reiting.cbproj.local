@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.860,=\\mmk-fs.mmk.local\FoldersRedirection$\nadezhda.lashtun\My Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,D:\Программы\Рейтингование\reit\uVvod.cpp=D:\Программы\Рейтингование\reit\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,D:\Программы\Рейтингование\reit\uMain.h=\\mmk-fs.mmk.local\FoldersRedirection$\nadezhda.lashtun\My Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,=\\mmk-fs.mmk.local\FoldersRedirection$\nadezhda.lashtun\My Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,D:\Программы\Рейтингование\reit\ReitingPCH1.h=D:\Программы\Рейтингование\reit\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,D:\Программы\Рейтингование\reit\uVvod.dfm=D:\Программы\Рейтингование\reit\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,=D:\Программы\Рейтингование\reit\FuncUserXE.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,D:\Программы\Рейтингование\reit\uDM.h=D:\Программы\Рейтингование\reit\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,D:\Программы\Рейтингование\reit\Unit1.cpp=D:\Программы\Рейтингование\reit\uSprav.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,D:\Программы\Рейтингование\reit\Unit1.dfm=D:\Программы\Рейтингование\reit\uSprav.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.151,D:\Программы\Рейтингование\reit\Project1PCH1.h=\\mmk-fs.mmk.local\FoldersRedirection$\nadezhda.lashtun\My Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.502,=D:\Программы\Рейтингование\reit\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.684,=D:\Программы\Рейтингование\reit\FuncCryptXE.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,D:\Программы\Рейтингование\reit\Unit1.h=D:\Программы\Рейтингование\reit\uSprav.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,=D:\Программы\Рейтингование\reit\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,D:\Программы\Рейтингование\reit\Reiting.cbproj=\\mmk-fs.mmk.local\FoldersRedirection$\nadezhda.lashtun\My Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,D:\Программы\Рейтингование\reit\uMain.cpp=\\mmk-fs.mmk.local\FoldersRedirection$\nadezhda.lashtun\My Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,=D:\Программы\Рейтингование\reit\EhLibDAC.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,D:\Программы\Рейтингование\reit\uVvod.h=D:\Программы\Рейтингование\reit\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,D:\Программы\Рейтингование\reit\uMain.dfm=\\mmk-fs.mmk.local\FoldersRedirection$\nadezhda.lashtun\My Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,D:\Программы\Рейтингование\reit\uDM.cpp=D:\Программы\Рейтингование\reit\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.665,=D:\Программы\Рейтингование\reit\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,=D:\Программы\Рейтингование\reit\RepoRTFO.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.114,=D:\Embracadero\ehLib\Lib\EhLibADO.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.115,D:\Программы\Рейтингование\reit\EhLibADO.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.783,=D:\Программы\Рейтингование\reit\EhLibADO.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,D:\Программы\Рейтингование\reit\uDM.dfm=D:\Программы\Рейтингование\reit\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.389,=D:\Программы\Рейтингование\reit\RepoRTFM.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.293,D:\Embracadero\ehLib\Lib\EhLibADO.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,=\\mmk-fs.mmk.local\FoldersRedirection$\nadezhda.lashtun\My Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,=\\mmk-fs.mmk.local\FoldersRedirection$\nadezhda.lashtun\My Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>

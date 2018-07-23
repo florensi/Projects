@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value="Grafiki.exe"/>
+    <OBJFILES value="Grafiki.obj uMain.obj uDM.obj RepoRTFM.obj RepoRTFO.obj uVvod.obj 
+      uSprav.obj uData.obj FuncCrypt.obj FuncUser.obj"/>
+    <RESFILES value="Grafiki.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) uMain.dfm uDM.dfm uVvod.dfm uSprav.dfm uData.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="bcb2kaxserver.lib indy.lib vclx.lib bcbsmp.lib vcldb.lib EhLibB60.lib 
+      adortl.lib dbrtl.lib rtl.lib vcl.lib"/>
+    <SPARELIBS value="vcl.lib rtl.lib dbrtl.lib adortl.lib EhLibB60.lib vcldb.lib bcbsmp.lib 
+      vclx.lib indy.lib bcb2kaxserver.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi dbrtl.bpi adortl.bpi vcldb.bpi vclx.bpi bdertl.bpi 
+      vcldbx.bpi ibxpress.bpi dsnap.bpi cds.bpi bdecds.bpi qrpt.bpi teeui.bpi 
+      teedb.bpi tee.bpi dss.bpi teeqr.bpi visualclx.bpi visualdbclx.bpi 
+      dsnapcrba.bpi dsnapcon.bpi bcbsmp.bpi vclie.bpi xmlrtl.bpi inet.bpi 
+      inetdbbde.bpi inetdbxpress.bpi inetdb.bpi nmfast.bpi webdsnap.bpi 
+      bcbie.bpi websnap.bpi soaprtl.bpi dclocx.bpi dbexpress.bpi dbxcds.bpi 
+      indy.bpi bcb2kaxserver.bpi EhLibB60.bpi"/>
+    <PATHCPP value=".;"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT"/>
+    <MAINSOURCE value="Grafiki.cpp"/>
+    <INCLUDEPATH value="$(BCB)\ehLib;D:\Иконки\Busines;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;D:\flor\Программы\Графики\Grafiki;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="$(BCB)\ehLib;D:\Иконки\Busines;&quot;C:\Program Files\Borland\CBuilder6\Projects&quot;;D:\flor\Программы\Графики\Grafiki;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-I$(BCB)\ehLib -ID:\Иконки\Busines 
+      -I&quot;C:\Program Files\Borland\CBuilder6\Projects&quot; 
+      -ID:\flor\Программы\Графики\Grafiki -I$(BCB)\include -I$(BCB)\include\vcl 
+      -src_suffix cpp -D_DEBUG -boa"/>
+    <CFLAG1 value="-Od -H=$(BCB)\lib\test.csm -Hc -Vx -Ve -X- -r- -a8 -b- -k -y -v -vi- -c 
+      -tW -tWM"/>
+    <PFLAGS value="-$YD -$W -$O- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zd"/>
+    <LFLAGS value="-D&quot;&quot; -aa -Tpe -x -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mt.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="Grafiki.res" FORMNAME="" UNITNAME="Grafiki.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Grafiki.cpp" FORMNAME="" UNITNAME="Grafiki" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="uMain.cpp" FORMNAME="Main" UNITNAME="uMain" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="uDM.cpp" FORMNAME="DM" UNITNAME="uDM" CONTAINERID="CCompiler" DESIGNCLASS="TDataModule" LOCALCOMMAND=""/>
+      <FILE FILENAME="RepoRTFM.cpp" FORMNAME="" UNITNAME="RepoRTFM.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="RepoRTFO.cpp" FORMNAME="" UNITNAME="RepoRTFO.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="uVvod.cpp" FORMNAME="Vvod" UNITNAME="uVvod" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="uSprav.cpp" FORMNAME="Sprav" UNITNAME="uSprav" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="uData.cpp" FORMNAME="Data" UNITNAME="uData" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FuncCrypt.cpp" FORMNAME="" UNITNAME="FuncCrypt" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="FuncUser.cpp" FORMNAME="" UNITNAME="FuncUser" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1049
+CodePage=1251
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[Excluded Packages]
+c:\program files\borland\cbuilder6\Bin\dclite60.bpl=Borland Integrated Translation Environment
+
+[HistoryLists\hlIncludePath]
+Count=1
+Item0=$(BCB)\ehLib;D:\Иконки\Busines;C:\Program Files\Borland\CBuilder6\Projects;D:\flor\Программы\Графики\Grafiki;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=1
+Item0=$(BCB)\ehLib;D:\Иконки\Busines;C:\Program Files\Borland\CBuilder6\Projects;D:\flor\Программы\Графики\Grafiki;$(BCB)\Projects\Lib;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=1
+Item0=_DEBUG
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=0
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+  </IDEOPTIONS>
+</PROJECT>
